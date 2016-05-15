@@ -2,6 +2,9 @@
 A chat app that run on android ! Also support the hotspot of the phone!
 
 # screen shot
+![1.png](https://github.com/shutup/TcpChat/blob/master/screenshot/Screenshot_2016-05-15-21-38-56_com.shutup.tcpchat.png)
+
+![2.png](https://github.com/shutup/TcpChat/blob/master/screenshot/Screenshot_2016-05-15-21-39-52_com.shutup.tcpchat.png)
 
 # having feature
 1. use TCP socket to send the msg
