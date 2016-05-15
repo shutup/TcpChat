@@ -110,7 +110,7 @@ public class ServerActivity extends AppCompatActivity {
         serverHandler.sendMessage(message);
         //apped msg to chat contents
         String oldStr = mChatContents.getText().toString();
-        String newStr = oldStr+"\n"+msg +"\n";
+        String newStr = oldStr+"\n"+msg ;
         mChatContents.setText(newStr);
         //clear the msg input
         mMsgContent.setText("");
